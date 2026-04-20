@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      <![CDATA[
+      .sprite { display: none; }
+      .sprite:target { display: inline; }
+    ]]>
+    </style>
+  </defs>
+
+  <g class="sprite" width="32" height="32" viewBox="0 0 32 32" id="replayBlack" transform="translate(1.746)">
+    <rect id="Rectangle_750" data-name="Rectangle 750" width="32" height="32" rx="10" transform="translate(-1.746)" fill="#f4f4f4" />
+    <path id="Path_4" data-name="Path 4" d="M0,0H27.556V27.556H0Z" transform="translate(0.194)" fill="none" />
+    <path id="Path_5" data-name="Path 5" d="M12.4,5V1L7.151,6,12.4,11V7a6.162,6.162,0,0,1,6.3,6,6.162,6.162,0,0,1-6.3,6,6.162,6.162,0,0,1-6.3-6H4a8.207,8.207,0,0,0,8.4,8,8.207,8.207,0,0,0,8.4-8A8.207,8.207,0,0,0,12.4,5Z" transform="translate(1.851 5.001)" fill="#888" />
+  </g>
+
+  <g class="sprite" width="32" height="32" viewBox="0 0 32 32" id="langChat" data-name="Group 6537" transform="translate(-351 -9)">
+    <rect id="Rectangle_751" data-name="Rectangle 751" width="32" height="32" rx="10" transform="translate(351 9)" fill="#f4f4f4" />
+    <g id="translate_white_24dp" transform="translate(357 15)">
+      <path id="Path_341" data-name="Path 341" d="M0,0H20V20H0Z" fill="none" />
+      <path id="Path_342" data-name="Path 342" d="M11.791,13.932,9.482,11.641l.027-.027a16.012,16.012,0,0,0,3.373-5.962h2.664V3.826H9.182V2H7.364V3.826H1V5.643H11.155a14.358,14.358,0,0,1-2.882,4.893,14.285,14.285,0,0,1-2.1-3.058H4.355a16.04,16.04,0,0,0,2.709,4.163L2.436,16.224l1.291,1.3,4.545-4.565L11.1,15.795ZM16.909,9.3H15.091L11,20.259h1.818l1.018-2.739h4.318l1.027,2.739H21Zm-2.382,6.391L16,11.741l1.473,3.953H14.527Z" transform="translate(-1 -1.13)" fill="#888" />
+    </g>
+  </g>
+
+  <g class="sprite" width="32" height="32" viewBox="0 0 32 32" id="pauseGrey" data-name="Group 6409" transform="translate(-18.5 -112)">
+    <rect id="Rectangle_748" data-name="Rectangle 748" width="32" height="32" rx="10" transform="translate(18.5 112)" fill="#272727" opacity="0.45" />
+    <path id="Path_1003" data-name="Path 1003" d="M6,25h5.714V5H6ZM17.429,5V25h5.714V5Z" transform="translate(20.5 113)" fill="#fff" />
+  </g>
+
+  <g class="sprite" width="32" height="32" viewBox="0 0 32 32" id="playButton" data-name="Group 6614" transform="translate(-18.5 -112)">
+    <rect id="Rectangle_748" data-name="Rectangle 748" width="32" height="32" rx="10" transform="translate(18.5 112)" fill="#272727" opacity="0.45" />
+    <path id="play_arrow_white_24dp" d="M8,7.439V24.2a1.614,1.614,0,0,0,2.491,1.359l13.169-8.38a1.618,1.618,0,0,0,0-2.734L10.491,6.08A1.614,1.614,0,0,0,8,7.439Z" transform="translate(20.428 112.182)" fill="#fff" />
+  </g>
+
+  <g class="sprite" width="32" height="32" viewBox="0 0 32 32" id="closeEclipse" data-name="Group 6419" transform="translate(-389 -9)">
+    <rect id="Rectangle_746" data-name="Rectangle 746" width="32" height="32" rx="10" transform="translate(389 9)" fill="#f4f4f4" />
+    <path id="_Color" data-name=" ↳Color" d="M20,2.014,17.986,0,10,7.986,2.014,0,0,2.014,7.986,10,0,17.986,2.014,20,10,12.014,17.986,20,20,17.986,12.014,10Z" transform="translate(395 15.551)" fill="#888" />
+  </g>
+
+  <g class="sprite" width="32" height="32" viewBox="0 0 32 32" id="muteIcon" transform="translate(1.746)">
+    <rect id="Rectangle_750" data-name="Rectangle 750" width="32" height="32" rx="10" transform="translate(-1.746)" fill="#272727" opacity="0.45" />
+    <path id="Path_4" data-name="Path 4" d="M0,0H27.556V27.556H0Z" transform="translate(0.194)" fill="none" />
+    <path id="Path_1004" data-name="Path 1004" d="M18,12.853a4.921,4.921,0,0,0-2.778-4.412v2.42l2.722,2.682A4.567,4.567,0,0,0,18,12.853Zm2.778,0a7.4,7.4,0,0,1-.6,2.89L21.856,17.4A9.518,9.518,0,0,0,23,12.853a9.883,9.883,0,0,0-7.778-9.6V5.507A7.685,7.685,0,0,1,20.778,12.853ZM4.411,3,3,4.39,8.256,9.569H3v6.569H7.444L13,21.612V14.244L17.722,18.9a7.733,7.733,0,0,1-2.5,1.292v2.255a10.049,10.049,0,0,0,4.1-1.982l2.267,2.244L23,21.316,13,11.463ZM13,4.095,10.678,6.383,13,8.671Z" transform="translate(1.254 3.146)" fill="#fff" />
+  </g>
+
+  <g class="sprite" width="32" height="32" viewBox="0 0 32 32" id="unmuteIcon" data-name="Group 6615" transform="translate(23555 20244.5)">
+    <g id="replay_black_24dp" transform="translate(-23553.254 -20244.5)">
+      <rect id="Rectangle_750" data-name="Rectangle 750" width="32" height="32" rx="10" transform="translate(-1.746)" fill="#272727" opacity="0.45" />
+      <path id="Path_4" data-name="Path 4" d="M0,0H27.556V27.556H0Z" transform="translate(0.194)" fill="none" />
+    </g>
+    <path id="volume_up_white_24dp" d="M3,11.177v4.729a1.186,1.186,0,0,0,1.182,1.182H7.729l3.889,3.889a1.186,1.186,0,0,0,2.021-.839V6.933a1.186,1.186,0,0,0-2.021-.839l-3.889,3.9H4.182A1.186,1.186,0,0,0,3,11.177Zm15.959,2.364A5.32,5.32,0,0,0,16,8.777v9.516A5.289,5.289,0,0,0,18.959,13.541ZM16,4.616v.236a1.1,1.1,0,0,0,.709,1,8.276,8.276,0,0,1,0,15.368,1.082,1.082,0,0,0-.709,1v.236a1.065,1.065,0,0,0,1.43,1,10.625,10.625,0,0,0,0-19.86,1.061,1.061,0,0,0-1.43,1Z" transform="translate(-23552.641 -20242.039)" fill="#fff" />
+  </g>
+
+  <g class="sprite" width="24" height="24" viewBox="0 0 24 24" id="attachGrey">
+    <g id="Group_6364" data-name="Group 6364">
+      <rect id="Rectangle_734" data-name="Rectangle 734" width="24" height="24" fill="none" />
+    </g>
+    <g id="Group_6365" data-name="Group 6365">
+      <path id="Path_340" data-name="Path 340" d="M18,15v3H6V15H4v3a2.006,2.006,0,0,0,2,2H18a2.006,2.006,0,0,0,2-2V15ZM7,9l1.41,1.41L11,7.83V16h2V7.83l2.59,2.58L17,9,12,4Z" fill="#888" />
+    </g>
+  </g>
+
+  <g class="sprite" width="28" height="28" viewBox="0 0 28 28" id="editWhite" data-name="Group 6445" transform="translate(-99 -407)">
+    <rect id="Rectangle_755" data-name="Rectangle 755" width="28" height="28" rx="10" transform="translate(99 407)" fill="none" />
+    <g id="edit" transform="translate(106 414)">
+      <g id="Group_6421" data-name="Group 6421">
+        <g id="Group_6420" data-name="Group 6420">
+          <path id="Path_346" data-name="Path 346" d="M0,76.5V79.42H2.918l8.609-8.609L8.609,67.893Z" transform="translate(0 -65.417)" fill="#fff" />
+          <path id="Path_347" data-name="Path 347" d="M263.008,2.044,261.191.228a.78.78,0,0,0-1.1,0l-1.424,1.424,2.918,2.918,1.424-1.424A.78.78,0,0,0,263.008,2.044Z" transform="translate(-249.232 0)" fill="#fff" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="sprite" width="13" height="13" viewBox="0 0 13 13" id="exclumationRed">
+    <path id="Path_362" data-name="Path 362" d="M9.2,6h1.6V7.6H9.2Zm0,3.2h1.6V14H9.2ZM10,2a8,8,0,1,0,8,8A8,8,0,0,0,10,2Zm0,14.4A6.4,6.4,0,1,1,16.4,10,6.408,6.408,0,0,1,10,16.4Z" transform="translate(-2 -2)" fill="#d63c3c" />
+  </g>
+
+  <g class="sprite" width="14" height="14" viewBox="0 0 14 14" id="linkIconW" transform="translate(0.25 0.25)">
+      <g id="Group_6562" data-name="Group 6562">
+        <g id="Group_6561" data-name="Group 6561">
+          <path id="Path_1005" data-name="Path 1005" d="M223.246,1.009h2.662L219.823,7.1a.5.5,0,1,0,.712.715l6.088-6.088V4.385a.5.5,0,0,0,1.009,0V.506A.506.506,0,0,0,227.125,0h-3.879a.5.5,0,0,0,0,1.009Z" transform="translate(-213.631)" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+          <path id="Path_1006" data-name="Path 1006" d="M2.939,14h8.119A2.942,2.942,0,0,0,14,11.061V7.237a.49.49,0,1,0-.98,0v3.821a1.962,1.962,0,0,1-1.959,1.959H2.939A1.962,1.962,0,0,1,.98,11.058V2.942A1.962,1.962,0,0,1,2.939.982h3.79a.491.491,0,1,0,0-.982H2.939A2.942,2.942,0,0,0,0,2.939v8.12A2.944,2.944,0,0,0,2.939,14Z" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+        </g>
+      </g>
+  </g>
+</svg>
